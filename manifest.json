@@ -1,0 +1,27 @@
+
+{
+    "id": "/",
+    "name": "ClickFeira Assaré",
+    "short_name": "ClickFeira",
+    "description": "Marketplace digital da feira de Assaré.",
+    "start_url": "/index.php",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#f7f5ef",
+    "theme_color": "#174c32",
+    "icons": [
+        {
+            "src": "/assets/img/app-icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/assets/img/app-icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
